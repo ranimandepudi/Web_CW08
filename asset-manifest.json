@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ranimandepudi/Web_CW08/static/css/main.b9164d72.css",
+    "main.js": "/ranimandepudi/Web_CW08/static/js/main.c294795f.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ranimandepudi/Web_CW08/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/ranimandepudi/Web_CW08/index.html",
+    "main.b9164d72.css.map": "/ranimandepudi/Web_CW08/static/css/main.b9164d72.css.map",
+    "main.c294795f.js.map": "/ranimandepudi/Web_CW08/static/js/main.c294795f.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ranimandepudi/Web_CW08/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9164d72.css",
+    "static/js/main.c294795f.js"
+  ]
+}
